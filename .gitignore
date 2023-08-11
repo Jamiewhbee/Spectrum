@@ -1,0 +1,5 @@
+#macOS related files in the whole repository
+**.DS_store
+**_pycache__
+**.vscode
+**.ipynb_checkpoints
