@@ -4,14 +4,6 @@ import os
 import re
 from scipy.interpolate import interp1d
 from scipy.signal import savgol_filter
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-from brukeropusreader import read_file
-import ipywidgets as widgets
->>>>>>> 2adb643 (Add code)
-=======
->>>>>>> 54b392d (Add/change files)
 from scipy.optimize import curve_fit
 from scipy.integrate import quad
 from scipy.integrate import trapz
