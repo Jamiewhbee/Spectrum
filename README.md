@@ -3,6 +3,8 @@
 
 Developed as a collaboration between J. Barrett, W. Galloway, and J. Wyzula.
 
+The code for Kramers-Kronig analysis is heavily based on kktr.cpp by C.C. Homes, which was originally developed for a C/C++ compiler and has been rewritten for a Python compiler.
+
 The data used for the demos is the magneto-reflectivity for two facets of NbAs2 collected by J. Wyzula et al. See https://arxiv.org/abs/2110.07266.
 
 ### Please refer to the following demos for using the module:
